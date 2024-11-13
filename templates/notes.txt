@@ -1,0 +1,18 @@
+gold - grain merge
+silver - color
+copper - color - copper block square
+enderium - color
+signalum - hard light
+aluminum - lightness +45
+lumium - hard light
+bronze - color
+mithril - soft light
+steel - no saturation, -30 darkness
+constantan - average
+platinum - grain merge
+nickel - color
+lead - color
+iridium - grain merge
+invar - overlay
+electrum - color
+tin - color
