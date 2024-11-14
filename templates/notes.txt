@@ -16,3 +16,6 @@ iridium - grain merge
 invar - overlay
 electrum - color
 tin - color
+osmium - color
+uranium - grain merge
+flourite - grain merge
