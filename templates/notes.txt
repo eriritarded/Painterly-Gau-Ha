@@ -15,7 +15,8 @@ lead - color
 iridium - grain merge
 invar - overlay
 electrum - color
-tin - color
-osmium - color
+tin - color, Hue +60 Saturation +110
+osmium - color, + saturation 45
 uranium - grain merge
 flourite - grain merge
+zinc - screen
