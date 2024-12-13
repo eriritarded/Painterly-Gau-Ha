@@ -20,5 +20,6 @@ osmium - color, + saturation 45
 uranium - grain merge
 flourite - grain merge
 zinc - screen
+fyrite - average
 
 thermal gui - -26 dark, +26 light
