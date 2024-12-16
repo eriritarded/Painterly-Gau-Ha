@@ -21,5 +21,6 @@ uranium - grain merge
 flourite - grain merge
 zinc - screen
 fyrite - average
+ardite - grain merge
 
 thermal gui - -26 dark, +26 light
