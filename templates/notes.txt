@@ -22,5 +22,9 @@ flourite - grain merge
 zinc - screen
 fyrite - average
 ardite - grain merge
+osgloglas - color
+alumite - grain merge
+mirion - grain merge
+cobalt - grain merge
 
 thermal gui - -26 dark, +26 light
