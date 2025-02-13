@@ -26,6 +26,9 @@ osgloglas - color
 alumite - grain merge
 mirion - grain merge
 cobalt - grain merge
+conductive iron - grain merge
+dark steel - steel -40
+
 ae2 machines - iron, -40darkness
 
 thermal gui - -26 dark, +26 light
