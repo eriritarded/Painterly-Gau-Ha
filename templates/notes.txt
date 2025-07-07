@@ -28,6 +28,7 @@ mirion - grain merge
 cobalt - grain merge
 conductive iron - grain merge
 dark steel - steel -40
+manasteel - grain merge
 
 ae2 machines - iron, -40darkness
 
