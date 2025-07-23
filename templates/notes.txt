@@ -29,6 +29,7 @@ cobalt - grain merge
 conductive iron - grain merge
 dark steel - steel -40
 manasteel - grain merge
+electricium - additive
 
 ae2 machines - iron, -40darkness
 
