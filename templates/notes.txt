@@ -34,6 +34,7 @@ netherite drpg - multiply
 arlemite drpg - color
 rupee drpg - color
 realmite drpg - grain merge
+stygian iron - grain merge
 
 ae2 machines - iron, -40darkness
 
