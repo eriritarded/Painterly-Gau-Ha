@@ -32,6 +32,7 @@ manasteel - grain merge
 electricium - additive
 netherite drpg - multiply
 arlemite drpg - color
+shadow drpg - hard light
 rupee drpg - color
 realmite drpg - grain merge
 stygian iron - grain merge
