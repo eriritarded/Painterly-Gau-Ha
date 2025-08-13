@@ -36,6 +36,8 @@ shadow drpg - hard light
 rupee drpg - color
 realmite drpg - grain merge
 stygian iron - grain merge
+twilight stone drpg - blue
+apalachia gem drpg - remove color, grain merge
 
 ae2 machines - iron, -40darkness
 
