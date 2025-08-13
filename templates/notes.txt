@@ -38,6 +38,7 @@ realmite drpg - grain merge
 stygian iron - grain merge
 twilight stone drpg - blue
 apalachia gem drpg - remove color, grain merge
+aluminum brass - grain merge
 
 ae2 machines - iron, -40darkness
 
