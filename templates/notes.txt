@@ -39,6 +39,7 @@ stygian iron - grain merge
 twilight stone drpg - blue
 apalachia gem drpg - remove color, grain merge
 aluminum brass - grain merge
+wildwood drpg - magenta on gray
 
 ae2 machines - iron, -40darkness
 
