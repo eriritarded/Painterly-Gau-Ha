@@ -43,6 +43,9 @@ wildwood drpg - magenta on gray
 emberstone aoa - grain merge 
 limonite aoa - darken
 rosite aoa - linear dodge
+amethyst aoa - grain merge
+sapphire aoa - grain merge
+jade a0a - grain merge
 
 ae2 machines - iron, -40darkness
 
