@@ -40,6 +40,9 @@ twilight stone drpg - blue
 apalachia gem drpg - remove color, grain merge
 aluminum brass - grain merge
 wildwood drpg - magenta on gray
+emberstone aoa - grain merge 
+limonite aoa - darken
+rosite aoa - linear dodge
 
 ae2 machines - iron, -40darkness
 
