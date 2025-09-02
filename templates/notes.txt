@@ -48,6 +48,7 @@ sapphire aoa - grain merge
 jade a0a - grain merge
 cyanite - overlay
 blutonium - grain merge
+energetic alloy - pin light on iron
 
 ae2 machines - iron, -40darkness
 
