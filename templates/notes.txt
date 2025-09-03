@@ -52,6 +52,8 @@ energetic alloy - pin light on iron
 soularium - soft light
 plusating iron - color
 energetic silver - blue on silver base
+vivid alloy - ender pearl overlay on energetic silver
+vibrant alloy - average on energetic alloy
 
 ae2 machines - iron, -40darkness
 
