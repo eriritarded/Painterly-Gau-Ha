@@ -49,6 +49,9 @@ jade a0a - grain merge
 cyanite - overlay
 blutonium - grain merge
 energetic alloy - pin light on iron
+soularium - soft light
+plusating iron - color
+energetic silver - blue on silver base
 
 ae2 machines - iron, -40darkness
 
