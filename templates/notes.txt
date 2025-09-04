@@ -60,6 +60,7 @@ varsium - grain merge
 mystite - overlay
 elecanium - cyan, saturation 75
 baronyte - color
+lyon - grain merge or overlay, depends on look/brightness
 
 ae2 machines - iron, -40darkness
 
