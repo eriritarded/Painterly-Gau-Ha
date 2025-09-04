@@ -55,6 +55,11 @@ energetic silver - blue on silver base
 vivid alloy - ender pearl overlay on energetic silver
 vibrant alloy - average on energetic alloy
 redstone alloy - grain merge
+blazium - overlay
+varsium - grain merge
+mystite - overlay
+elecanium - cyan, saturation 75
+baronyte - color
 
 ae2 machines - iron, -40darkness
 
