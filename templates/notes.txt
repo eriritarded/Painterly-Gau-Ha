@@ -64,6 +64,7 @@ lyon - grain merge or overlay, depends on look/brightness
 melodic - grain merge
 ascended draconium mbc - grain merge
 brightsteel alloy mbc - color
+ghastly aoa - average
 
 ae2 machines - iron, -40darkness
 
