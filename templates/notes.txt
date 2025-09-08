@@ -62,6 +62,8 @@ elecanium - cyan, saturation 75
 baronyte - color
 lyon - grain merge or overlay, depends on look/brightness
 melodic - grain merge
+ascended draconium mbc - grain merge
+brightsteel alloy mbc - color
 
 ae2 machines - iron, -40darkness
 
