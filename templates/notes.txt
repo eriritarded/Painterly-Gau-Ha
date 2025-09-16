@@ -65,6 +65,11 @@ melodic - grain merge
 ascended draconium mbc - grain merge
 brightsteel alloy mbc - color
 ghastly aoa - average
+plutonium - color
+refined iron - color, brightness86/contrast-68. take boreder from techreborn
+titanium - overlay
+advanced alloy - overlay
+chrome - stamp
 
 ae2 machines - iron, -40darkness
 
