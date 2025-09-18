@@ -71,6 +71,7 @@ titanium - overlay
 advanced alloy - overlay
 chrome - stamp
 cinnabar - color
+sacrificial - grain merge
 
 ae2 machines - iron, -40darkness
 
