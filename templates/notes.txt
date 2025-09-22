@@ -76,5 +76,6 @@ spectre - hard light
 
 
 ae2 machines - iron, -40darkness
+actually additions machines - iron -50%darkness
 
 thermal gui - -26 dark, +26 light
