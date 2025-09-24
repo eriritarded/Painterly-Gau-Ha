@@ -73,6 +73,8 @@ chrome - stamp
 cinnabar - color
 sacrificial - grain merge
 spectre - hard light
+astranite (astral dimension) - grain merge
+lucid (astral dimension) - color, hue+10, saturation+132, lightness-42
 
 
 ae2 machines - iron, -40darkness
