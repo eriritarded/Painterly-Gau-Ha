@@ -76,6 +76,7 @@ spectre - hard light
 astranite (astral dimension) - grain merge
 lucid (astral dimension) - color, hue+10, saturation+132, lightness-42
 opalite (gaia) - grain merge
+ghostmetal shadowlands - averagecreepmetal shadowlands -
 
 
 ae2 machines - iron, -40darkness
